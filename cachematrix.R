@@ -1,8 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
 ## This function creates a special matrix object which can cache its reverse.
-
-## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
       m <- NULL
