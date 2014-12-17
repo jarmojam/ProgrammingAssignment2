@@ -35,7 +35,4 @@ cacheSolve <- function(x = matrix(), ...) {
 }
 
 
-B = matrix(  c(2, 4, 3, 1, 5, 7),   nrow=3, ncol=2)
-
-
 
